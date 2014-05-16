@@ -1,0 +1,18 @@
+syntax: glob
+.DS_Store
+*~
+*.synctex.gz
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.lot
+*.lof
+.dropbox
+*.pdf
+ch-4.tex
+tables/example.tex
+*.jpg
+
+syntax: regexp
